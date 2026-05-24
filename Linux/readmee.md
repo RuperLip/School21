@@ -2,8 +2,8 @@
 
 1. **Установлены сервер Ubuntu 24.04 LTS без графического интерфейса**
 - Скачиваем вирутал бокс/образ :
-![Скачивание VirtualBox](pictures/Скачивание VirtualBox.png)
+![скачивание VirtualBox.png](pictures/скачивание VirtualBox.png)
 - Скачиваем образ Linux:
-![Скачивание образа Linux](pictures/Скачивание образа Linux.png)
+![скачивание образа Linux](pictures/скачивание образа Linux.png)
 
-![Скачивание virtualBox](pictures/Скачивание VirtualBox.pngg)
+![Скачивание virtualBox](pictures/Скачивание VirtualBox.png)
