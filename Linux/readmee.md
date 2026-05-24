@@ -4,4 +4,6 @@
 - Скачиваем вирутал бокс/образ :
 ![Скачивание VirtualBox](pictures/Скачивание VirtualBox.png)
 - Скачиваем образ Linux:
-![Скачивание образа Linux ](pictures/Скачивание образа Linux.png)
+![Скачивание образа Linux](pictures/Скачивание образа Linux.png)
+
+![Скачивание virtualBox](pictures/Скачивание VirtualBox.pngg)
